@@ -1,0 +1,55 @@
+* {
+  font-family: "Times New Roman", Georgia, Serif;
+
+}
+.header__menu {
+  position: absolute;
+  width: 35.35px;
+  height: 24px;
+  left: 100px;
+  top: 35px;
+
+  font-family: Gotham Pro;
+  font-size: 12px;
+  line-height: 11px;
+  display: flex;
+  align-items: center;
+  text-align: justify;
+  text-transform: uppercase;
+
+  color: #000000;
+}
+.menu__list {
+  display: inline;
+  margin-right: 15px;
+
+}
+.header__button {
+  position: absolute;
+  width: 150px;
+  height: 55px;
+  left: 450px;
+  top: 15px;
+
+}
+
+#title {
+  color: darkred;
+}
+[align="center"] {
+  font-size: 18px;;
+}
+.header__title {
+  margin-top: 100px;
+  text-shadow: 2px 2px 4px gray;
+  font-stretch: ultra-expanded;
+}
+.header__desc {
+  font-style: italic;
+  color: pink;
+}
+.header__desc_text {
+  font-style: oblique;
+  font-weight: bolder;
+}
+

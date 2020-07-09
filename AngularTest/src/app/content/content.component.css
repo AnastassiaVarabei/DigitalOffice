@@ -1,0 +1,20 @@
+h4 {
+  font-size: 24px;
+  color: violet;
+}
+.section__subtitle {
+  font-size: 26px;
+  color: black;
+  color: darkred !important;
+}
+h4.section__subtitle {
+  font-size: 28px;
+  color: darkviolet;
+}
+body#section h4.section__subtitle  {
+  font-size: 30px;
+  color: darkblue;
+}
+.section__desc_text {
+  font-weight: bold;
+}
