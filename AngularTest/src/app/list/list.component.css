@@ -1,0 +1,10 @@
+ul {
+  width: 450px;
+  border-style: double;
+  border-color: darkred;
+  border-width: 5px;
+  border-radius: 10px 10px;
+}
+.list__item {
+  list-style-type: circle;
+}
