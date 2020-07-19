@@ -7,6 +7,9 @@ import { ContentComponent } from './content/content.component';
 import { ListComponent } from './list/list.component';
 import { ItemComponent } from './item/item.component';
 import { FooterComponent } from './footer/footer.component';
+import { DatedescComponent } from './datedesc/datedesc.component';
+import { DayperiodComponent } from './dayperiod/dayperiod.component';
+import { DateperiodComponent } from './dateperiod/dateperiod.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +18,10 @@ import { FooterComponent } from './footer/footer.component';
     ContentComponent,
     ListComponent,
     ItemComponent,
-    FooterComponent
+    FooterComponent,
+    DatedescComponent,
+    DayperiodComponent,
+    DateperiodComponent
   ],
   imports: [
     BrowserModule
